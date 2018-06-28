@@ -1,0 +1,6045 @@
+{
+	"people": [
+		{
+			"id": 0,
+			"name": "Darrell R. Raymond"
+		},
+		{
+			"id": 1,
+			"name": "Mariano P. Consens"
+		},
+		{
+			"id": 2,
+			"name": "Alberto Mendelzon"
+		},
+		{
+			"id": 3,
+			"name": "Arthur Ryman"
+		},
+		{
+			"id": 4,
+			"name": "Santanu Paul"
+		},
+		{
+			"id": 5,
+			"name": "Atul Prakash"
+		},
+		{
+			"id": 6,
+			"name": "Erich Buss"
+		},
+		{
+			"id": 7,
+			"name": "John Henshaw"
+		}
+	],
+	"nodes": [
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 0,
+			"name": "High speed and multimedia communication",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 1,
+			"name": "Distributed knowledge worker (DKW): a personal conferencing system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 2,
+			"name": "Extensions to Starburst: objects, types, functions and rules",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 3,
+			"name": "Object oriented programming: looking ahead to the year 2000",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 4,
+			"name": "Towards a new distributed programming environment (CORDS)",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 5,
+			"name": "High-level language support for programming distributed systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 6,
+			"name": "Visualizing and querying software structures",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 7,
+			"name": "Control and responsiveness in Hermes",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 8,
+			"name": "Supporting database access in the Hermes programming language",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 9,
+			"name": "Transaction management in Hermes",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 10,
+			"name": "Nestmod: the NetMod - NEST interface",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 11,
+			"name": "A simulation model for X.500 directories: initial experiences",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 12,
+			"name": "Analysis of X.500 distributed directory refresh strategies",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 13,
+			"name": "Name space models for locating services",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 14,
+			"name": "Reading source code",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 15,
+			"name": "A service acquisition mechanism for the client/service model in cygnus",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 16,
+			"name": "Network management by delegation: the MAD approach",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 17,
+			"name": "Narratives of space and time: visualization for distributed applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 18,
+			"name": "Theories and techniques of program understanding",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 19,
+			"name": "A timed Petri-net model for fine-grain loop scheduling",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 20,
+			"name": "A software reverse engineering experience",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 21,
+			"name": "How people use softcopy documentation: a case study",
+			"type": 0
+		},
+		{
+			"Timestamp": "1991-01-01",
+			"desc": "Technical Papers",
+			"id": 22,
+			"name": "The IBM-McGill project on software process",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 23,
+			"name": "Assessing design-quality metrics on legacy software",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 24,
+			"name": "Foundations of 4Thought",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 25,
+			"name": "Experiences in program understanding",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 26,
+			"name": "Using neural nets to optimize retrieval in a fuzzy relational database",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 27,
+			"name": "Evolutions in typesetting systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 28,
+			"name": "Formalization of information hiding design methods",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 29,
+			"name": "Practical metaprogramming",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 30,
+			"name": "A theory-model formalization of FlexOr",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 31,
+			"name": "Visualisation of large networks in 3-D space: issues in implementation and experimental evaluation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 32,
+			"name": "Challenges in graph-based relational data visualization",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 33,
+			"name": "The calibration of a display monitor for an image enabler",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 34,
+			"name": "A prototype debugger for Hermes",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 35,
+			"name": "A practical approach to re-engineering software",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 36,
+			"name": "Toward program representation and program understanding using process algebras",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 37,
+			"name": "Management decision support through reverse engineering technology",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 38,
+			"name": "SCRUPLE: a reengineer\\'s tool for source code search",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 39,
+			"name": "Concurrency issues in <i> C </i> <sup> ++ </sup>",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 40,
+			"name": "Can competitive analysis be made competitive?",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 41,
+			"name": "Architecture of the XL C++ browser",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 42,
+			"name": "Integrating applications with cache and memory management on a shared-memory multiprocessor",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 43,
+			"name": "A C toolkit to support parallel programming",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 44,
+			"name": "Defect tracking and reliability modeling for a new product release",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 45,
+			"name": "A comparison of access methods for online documentation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 46,
+			"name": "ISO 9000: a requirement for doing business",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 47,
+			"name": "Multicolour programming and metamorphic programming: object oriented programming-in-the-large",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 48,
+			"name": "Software estimation using the SLIM tool",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 49,
+			"name": "Rule-based process servers for software development environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 50,
+			"name": "Towards a computer-aided process engineering environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 51,
+			"name": "AAA: a modeling language for software production environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 52,
+			"name": "National language architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 53,
+			"name": "Cluster busting in anchored graph drawing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 54,
+			"name": "Continuous improvement experiences in information development",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 55,
+			"name": "An agenda for research directions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 56,
+			"name": "CAS: a centre for applied research and development",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 57,
+			"name": "Query optimization in multidatabase systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 58,
+			"name": "CORDS: status and directions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 59,
+			"name": "Issues in managing long transactions and large objects in a multidatabase system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 60,
+			"name": "Classifying approaches to semantic heterogeneity in multidatabase systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 61,
+			"name": "The role of directory services in network management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 62,
+			"name": "The optimal placement of replicas in a network using a READ ANYWRITE ALL policy",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 63,
+			"name": "NESTMOD simulation of DQDB metropolitan networks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 64,
+			"name": "On remote procedure call",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 65,
+			"name": "Overview of multidatabase transaction management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 66,
+			"name": "Optimistic replication in HOPE",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 67,
+			"name": "Elastic servers in CORDS",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 68,
+			"name": "Extending distributed system specifications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 69,
+			"name": "Analytic methods in coverage testing of communications software",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 70,
+			"name": "A prototype debugger for Hermes",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 71,
+			"name": "Directory requirements for a multidatabase service",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 72,
+			"name": "A formalization of the CORDS Process Model using Mondel",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 73,
+			"name": "Some definitions, protocols and proofs about secure authentication",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 74,
+			"name": "From grapevine to trader: the evolution of distributed directory technology",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 75,
+			"name": "Multidatabase services: issues and architectural design",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 76,
+			"name": "A concurrency control protocol for nested transactions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 77,
+			"name": "A transactional API for the EAN X.500 directory service",
+			"type": 0
+		},
+		{
+			"Timestamp": "1992-01-01",
+			"desc": "Technical Papers",
+			"id": 78,
+			"name": "Open nested serializability in multidatabase systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 79,
+			"name": "Formal approach to QoS specification and verification",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 80,
+			"name": "Visual formalisms for configuration management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 81,
+			"name": "Integration of CASE into undergraduate education",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 82,
+			"name": "Maintenance productivity: observations based on an experience in a large system environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 83,
+			"name": "Identifying redundancy in source code using fingerprints",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 84,
+			"name": "Formal specifications design, evolution and reuse",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 85,
+			"name": "Program representation and behavioural matching for localizing similar code fragments",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 86,
+			"name": "The development of a partial design recovery environment for legacy systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 87,
+			"name": "Understanding software systems using reverse engineering technology perspectives from the Rigi project",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 88,
+			"name": "Generating programming language-based pattern matchers",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 89,
+			"name": "Managing views in a program understanding tool",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 90,
+			"name": "The impact of inserting a tool into a software process",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 91,
+			"name": "An empirical evaluation of the G/Q/M method",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 92,
+			"name": "An integrated distributed systems management architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 93,
+			"name": "Evaluating the impact of process improvements quantitatively using process modeling",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 94,
+			"name": "OPT: organization and process together",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 95,
+			"name": "A proposed approach to process decomposition and collaboration for MARVEL",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 96,
+			"name": "Surveys as a method for improving the development process",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 97,
+			"name": "Linkage metrics for process reengineering",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 98,
+			"name": "How one product team met the quality challenge",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 99,
+			"name": "Cost, quality and user satisfaction of software products: an empirical analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 100,
+			"name": "Illuminating software specifications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 101,
+			"name": "Business-structured client/server: an architecture for distributed applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 102,
+			"name": "Filtering for quality",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 103,
+			"name": "Using Hy<sup>+ </sup> for network management and distributed debugging",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 104,
+			"name": "A case study in class testing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 105,
+			"name": "Collecting data for software reliability analysis and modeling",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 106,
+			"name": "Fault-based test generation for cause-effect graphs",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 107,
+			"name": "The use of process clustering in distributed-system event displays",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 108,
+			"name": "Some issues in multi-phase software reliability modeling",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 109,
+			"name": "Efficient event generation for detecting races",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 110,
+			"name": "Using objects to distribute configuration management tasks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 111,
+			"name": "Isochronets: an architecture for high-speed networks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 112,
+			"name": "Developing an object-oriented view management system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 113,
+			"name": "Towards unifying analysis, design, and implementation in object-oriented environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 114,
+			"name": "Using SOM for tool integration",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 115,
+			"name": "A multi-dimensional taxonomy of software development environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 116,
+			"name": "TIGUKAT object management system: initial design and current directions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 117,
+			"name": "Visualizing object oriented software in three dimensions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 118,
+			"name": "A multimedia real-time conferencing system: architecture and implementation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 119,
+			"name": "Experimental use of the portable common tool environment (PCTE) on a fine-grained data problem",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 120,
+			"name": "An integrated architecture for distributed applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 121,
+			"name": "ADVcharts: a graphical specification for abstract data views",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 122,
+			"name": "An example of linking formal methods with case tools: a model checker for statecharts",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 123,
+			"name": "Information visualization and interactive querying for online documentation and electronic books",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 124,
+			"name": "Documents, concepts and neural networks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 125,
+			"name": "Determining core competences in the information development environment: an example",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 126,
+			"name": "Validating a core competence: information development",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 127,
+			"name": "A comparison of interobserver agreement and quantity of usability data obtained using graphics-based and text-based data collection tools",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 128,
+			"name": "Writing about C++",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 129,
+			"name": "Using cognates to align sentences in bilingual corpora",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 130,
+			"name": "Documenting-in-the-large vs. documenting-in-the-small",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 131,
+			"name": "Colour monitor calibration based on CIE standards",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 132,
+			"name": "A simple model of prolog\\'s performance: extensional predicates",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 133,
+			"name": "Translation analysis and translation automation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 134,
+			"name": "Properties of the voronoi diagram cluster buster",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 135,
+			"name": "Managing and Reproducing Colour Images (MARCI)",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 136,
+			"name": "Operation jump start: a CORDS integration prototype using DCE",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 137,
+			"name": "On distributed system management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 138,
+			"name": "Knowledge-based security administration in a distributed environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 139,
+			"name": "Exploring large hyperdocuments: fisheye views of nested networks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 140,
+			"name": "Modeling RPC performance",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 141,
+			"name": "Managing heterogeneous distributed computing systems: using information repositories",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 142,
+			"name": "Interface design issues in the MEDIALOGâ¢ project",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 143,
+			"name": "A document model for multimedia information",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 144,
+			"name": "Implementing a delegation model design of an HPCC application using concert/C",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 145,
+			"name": "Distributed information discovery challenges",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 146,
+			"name": "Multimedia integration in the RACE BANK multimedia broadband cooperation projects",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 147,
+			"name": "COOPDRAW: a multiagent architecture for a shared graphical editor",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 148,
+			"name": "CORDS multidatabase project: research and prototype overview",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 149,
+			"name": "Database integration using multidatabase views",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 150,
+			"name": "Engineering an SQL gateway to IMS",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 151,
+			"name": "Exploiting uniqueness in query optimization",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 152,
+			"name": "Interchanging group-by and join in distributed query processing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 153,
+			"name": "An integrated method for estimating selectivities in a multidatabase system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 154,
+			"name": "Query optimization using fuzzy set theory for multidatabase systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 155,
+			"name": "Logical concurrency control for large objects in a multidatabase system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 156,
+			"name": "Architecture for transaction management in the CORDS multidatabase service",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 157,
+			"name": "Weakly consistent transactions in <i>ROSS</i>",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 158,
+			"name": "Composite multidatabase system concurrency control and recovery",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 159,
+			"name": "A transaction manager component for cooperative transaction models",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 160,
+			"name": "Concurrency abstractions in a C++ class library",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 161,
+			"name": "Language support for data parallelism in pointer based dynamic data structures",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 162,
+			"name": "Register allocation for optimal loop scheduling",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 163,
+			"name": "Evaluation of distributed communication systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 164,
+			"name": "Consistency and event ordering in the shared regions model",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 165,
+			"name": "Deductive database support for data visualization",
+			"type": 0
+		},
+		{
+			"Timestamp": "1993-01-01",
+			"desc": "Technical Papers",
+			"id": 166,
+			"name": "Enterprise in context: assessing the usability of parallel programming environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 167,
+			"name": "Schema translation using structural transformation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 168,
+			"name": "Self-testing software probe system for failure detection and diagnosis",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 169,
+			"name": "Volume upper bounds for 3D graph drawing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 170,
+			"name": "A technique for automatically organizing software libraries for software reuse",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 171,
+			"name": "A theory model core for module interconnection languages",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 172,
+			"name": "Translating GraphLog to SQL",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 173,
+			"name": "Applying program understanding technology to IBM product documentation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 174,
+			"name": "Using Kohonen maps to determine document similarity",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 175,
+			"name": "The loosely-synchronous transfer mode",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 176,
+			"name": "Quality of service management automation in integrated distributed systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 177,
+			"name": "Investigating coverage-reliability relationship and sensitivity of reliability to errors in the operational profile",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 178,
+			"name": "An efficient expected cost algorithm for dynamic indexing of spatial objects",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 179,
+			"name": "Metamorphic development of a GUI for configuration management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 180,
+			"name": "Designing for change",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 181,
+			"name": "On testing of classes in object-oriented programs",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 182,
+			"name": "Quality of service verification experiments",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 183,
+			"name": "Techniques and experiences with group support system implementation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 184,
+			"name": "Automatic translation of process modeling formalisms",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 185,
+			"name": "Testing the C set++ collection class library",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 186,
+			"name": "Computer aided document engineering",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 187,
+			"name": "Eliciting formal models of software engineering processes",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 188,
+			"name": "Using objects in shared memory for C++ application",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 189,
+			"name": "A compiler framework for restructuring data declarations to enhance cache and TLB effectiveness",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 190,
+			"name": "Toward distributed applications management using the OSI management framework",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 191,
+			"name": "EPPP - an integrated environment for portable parallel programming",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 192,
+			"name": "Visualizing textual redundancy in legacy source",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 193,
+			"name": "FTL: a multithreaded environment for parallel computation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 194,
+			"name": "Partial design recovery using dynamic programming",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 195,
+			"name": "Restricted object based design of event driven commercial software",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 196,
+			"name": "Software release management: a business perspective",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 197,
+			"name": "An object oriented testing and maintenance environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 198,
+			"name": "Visualizing abstract events",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 199,
+			"name": "Static analysis of multiway synchronization",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 200,
+			"name": "Object-oriented metrics: an overview",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 201,
+			"name": "An automated internet resource discovery system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 202,
+			"name": "Test case generation for specification-based software testing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 203,
+			"name": "The contract approach illustrated with a distributed routing protocol",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 204,
+			"name": "Loosely integrating tools using the star system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 205,
+			"name": "Supporting communications infrastructure evolution",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 206,
+			"name": "Storing MDBS catalog information in an X.500 directory service",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 207,
+			"name": "Foraging for information resources in cyberspace: intelligent foraging agent in a distributed network",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 208,
+			"name": "An SGML-based programming environment for literate programming",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 209,
+			"name": "Towards an integrated toolset for program understanding",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 210,
+			"name": "Automatic decomposition in EPPP compiler",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 211,
+			"name": "A comparison of identification rates of static and animated buttons",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 212,
+			"name": "On the automation of code generation for user interface models",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 213,
+			"name": "On the experience of using cause-effect graphs for software specification and test generation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 214,
+			"name": "Obstacles to transparent heterogeneity in a distributed programming environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 215,
+			"name": "Modeling and querying software repositories",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 216,
+			"name": "Modelling a distributed database system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 217,
+			"name": "Toward automation of generating incremental computation mechanisms",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 218,
+			"name": "Design and implementation of a trader-based resource management system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 219,
+			"name": "OODB support for providing transparent schema changes",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 220,
+			"name": "A response oriented paradigm for software engineering",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 221,
+			"name": "Capturing software process and product characteristics in process models using task element decomposition",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 222,
+			"name": "Failure isolation and recovery in composite multidatabases",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 223,
+			"name": "Grail: a C++ library for finite-state machines and regular expressions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 224,
+			"name": "Inspection effectiveness in software development: a neural network approach",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 225,
+			"name": "Consistency issues in distributed application performance metrics",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 226,
+			"name": "Using the OPT improvement approach in the SQL/DS development environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 227,
+			"name": "Integrating cognitive levels into the interface",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 228,
+			"name": "Enterprise: current status and future directions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 229,
+			"name": "Integrating real-time and partial-order information in event-data displays",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 230,
+			"name": "Reducing the technical overhead of software reuse",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 231,
+			"name": "Automatic source-file dependency structure extraction for C programs",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 232,
+			"name": "Data parallelism with high performance C",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 233,
+			"name": "TIM: a tool insertion method",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 234,
+			"name": "View maintenance in relational and deductive databases by incremental query evaluation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 235,
+			"name": "Distributed multimedia applications and quality of service: a survey",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 236,
+			"name": "Extending the RMON matrix group to provide network layer statistics",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 237,
+			"name": "Software understanding through integrated structural and run-time analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 238,
+			"name": "Data reduction through early grouping",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 239,
+			"name": "A versatile development process for small to large projects using IBM CMVC",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 240,
+			"name": "A formal specification model and its application in multidatabase systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 241,
+			"name": "Delivery of electronic news: a broadband application",
+			"type": 0
+		},
+		{
+			"Timestamp": "1994-01-01",
+			"desc": "Technical Papers",
+			"id": 242,
+			"name": "A comparison of two handwriting recognizers for pen-based computers",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 243,
+			"name": "An investigation of monitoring configurations",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 244,
+			"name": "Analyzing CASE impact",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 245,
+			"name": "S/SL revisited",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 246,
+			"name": "Optimized code restructuring of OS/2 executables",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 247,
+			"name": "An approach to building quality into software architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 248,
+			"name": "Teaching object-oriented analysis and design by Cruisin\\' the classifieds for business objects",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 249,
+			"name": "Making the user interface disappear: the reactive room",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 250,
+			"name": "Statecharts supervision models for reactive systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 251,
+			"name": "Phased development of critical real-time systems in timed CSP",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 252,
+			"name": "Software architectural analysis: an experience report",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 253,
+			"name": "A component based software reliability model",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 254,
+			"name": "Concurrency control with lock preemption and restoration",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 255,
+			"name": "Enhancing cleanroom techniques with refinement calculus",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 256,
+			"name": "Document classification and recurrent neural networks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 257,
+			"name": "Layout and structuring object oriented software in three dimensions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 258,
+			"name": "An object state test model: object state diagram",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 259,
+			"name": "The environment understanding interface: detecting and tracking human activity through multimedia sensors",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 260,
+			"name": "The impact of interprocedural class analysis on optimization",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 261,
+			"name": "Talking your way around a conference: a speech interface for remote equipment control",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 262,
+			"name": "Browsing local and global information",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 263,
+			"name": "Visual web surfing with Hy<sup>+ </sup>",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 264,
+			"name": "SAMC - efficient semi-adaptive data compression",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 265,
+			"name": "A trainable system for the extraction of meaning from text",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 266,
+			"name": "Content-based image retrieval",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 267,
+			"name": "Integrating visualization into event monitoring and analysis in distributed systems management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 268,
+			"name": "DECALS: distributed experiment control and logging system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 269,
+			"name": "Behavioral patterns for software requirement engineering",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 270,
+			"name": "Using textual redundancy to understand change",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 271,
+			"name": "A survey of object-oriented reuse",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 272,
+			"name": "Reliable communications in FTL",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 273,
+			"name": "Interworking of traders in a distributed computing environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 274,
+			"name": "Performance modeling of the distributed computing environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 275,
+			"name": "Determinants of service quality in software: an empirical analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 276,
+			"name": "The architecture of an agent building shell",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 277,
+			"name": "A new object-oriented technique for building a dynamic graphical user interface",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 278,
+			"name": "A comparison-based approach for software inspection",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 279,
+			"name": "Towards a real-time object-oriented modeling approach",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 280,
+			"name": "Memory disambiguation for general-purpose applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 281,
+			"name": "Template-based program restructuring - initial experience",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 282,
+			"name": "Lightweight video service for multi-media digital libraries",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 283,
+			"name": "Cause-effect graphing analysis and validation of requirements",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 284,
+			"name": "Current proposals for parallel C++",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 285,
+			"name": "A new solution to test generation for Boolean expressions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 286,
+			"name": "Parallel I/O templates for enterprise",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 287,
+			"name": "An SQL interface to X.500",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 288,
+			"name": "The role of the personal computer in the design and development of advanced life-support equipment for tactical aircraft",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 289,
+			"name": "The information highway and Africa",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 290,
+			"name": "Development productivity for commercial software using object-oriented methods",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 291,
+			"name": "Automating real-time multi-threaded application development",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 292,
+			"name": "Parameter estimation for performance models of distributed application systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 293,
+			"name": "Ensuring responsiveness and scalability for distributed applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 294,
+			"name": "Limiting the probe effect in debugging concurrent object-oriented programs",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 295,
+			"name": "A visual object-oriented development environment (VOODE)",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 296,
+			"name": "Achieving target-system independence in event visualisation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 297,
+			"name": "Using an integrated toolset for program understanding",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 298,
+			"name": "On the use of machine-assisted knowledge discovery to analyze and reengineer measurement frameworks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 299,
+			"name": "An architecture for monitoring and modeling network systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 300,
+			"name": "Performance debugging in the enterprise parallel programming system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 301,
+			"name": "Performing replay in an OSF DCE environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 302,
+			"name": "Simplification of outer joins",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 303,
+			"name": "No regression algorithm for the enumeration of projections in SQL queries with joins and outer joins",
+			"type": 0
+		},
+		{
+			"Timestamp": "1995-01-01",
+			"desc": "Technical Papers",
+			"id": 304,
+			"name": "Transaction scheduling in dynamic composite multidatabase systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 305,
+			"name": "Monitoring overhead in distributed systems: visualization and estimation techniques",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 306,
+			"name": "An architecture for enforcement of usage contracts in distributed multimedia systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 307,
+			"name": "Supporting procedural constructs in existing SQL compilers",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 308,
+			"name": "Network management views using delegated agents",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 309,
+			"name": "A comparison of algorithms for interprocedural class analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 310,
+			"name": "Class testing and code-based criteria",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 311,
+			"name": "Performance aspects of dynamic re-allocation for partitioned data",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 312,
+			"name": "Navigating the textual redundancy web in legacy source",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 313,
+			"name": "A survey of testing techniques for object-oriented systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 314,
+			"name": "Evaluating the costs of management: a distributed applications management testbed",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 315,
+			"name": "Single stepping in event-visualization tools",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 316,
+			"name": "IRIS - a system for image and video retrieval",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 317,
+			"name": "Performing boundary shape matching in spatial data",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 318,
+			"name": "Defining factors,goals and criteria for reusable component evaluation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 319,
+			"name": "On predicting reliability of modules using code coverage",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 320,
+			"name": "Extended SSA numbering: introducing SSA properties to languages with multi-level pointers",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 321,
+			"name": "A system for the seamless integration of personal messages using agents developed on a lotus notes platform.",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 322,
+			"name": "Design patterns in enterprise",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 323,
+			"name": "A management information repository for distributed applications management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 324,
+			"name": "A functional intermediate form for diverse source languages",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 325,
+			"name": "BIVTECI: a bibliographic visualization tool",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 326,
+			"name": "Reuse in the application layer",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 327,
+			"name": "Real-time complexity metric tools for visualAge smalltalk and C++",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 328,
+			"name": "Inter-class testing of O-O software in the presence of polymorphism",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 329,
+			"name": "Software reuse using formal specification of requirements",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 330,
+			"name": "Paradigm shift in software re-engineering: an experience report",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 331,
+			"name": "Automatic generation of performance models for distributed application systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 332,
+			"name": "Communication costs in code and design reviews: an empirical study",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 333,
+			"name": "Views on template-based parallel programming",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 334,
+			"name": "Measurements of DCE RPC performance in an OS/2 environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 335,
+			"name": "Data locality sensitivity of multithreaded computations on a distributed-memory multiprocessor",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 336,
+			"name": "A hybrid process for recovering software architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 337,
+			"name": "A robot agent that can search",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 338,
+			"name": "Harvesting design for an application framework",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 339,
+			"name": "Live WWW and its agents: the CAS-LWWW project",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 340,
+			"name": "A memory-adaptive sort (MASORT) for database systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 341,
+			"name": "Broadband application transport service and management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 342,
+			"name": "Modeling on-line rebalancing with priorities and executing on parallel database systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 343,
+			"name": "Automatic parallelization for symmetric shared-memory multiprocessors",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 344,
+			"name": "Modeling and analysis of the Unix communication subsystems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 345,
+			"name": "Sustaining software interoperability via shared,evolving object repositories: system optimization and evaluation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 346,
+			"name": "Improving cohesiveness and flexibility in systems management architectures using distributed object technologies over the internet",
+			"type": 0
+		},
+		{
+			"Timestamp": "1996-01-01",
+			"desc": "Technical Papers",
+			"id": 347,
+			"name": "Availability management of distributed programs and services",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 348,
+			"name": "A performance study of client-broker-server systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 349,
+			"name": "Similarity-based retrieval for diverse bookshelf software repository users",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 350,
+			"name": "A unified approach for mining outliers",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 351,
+			"name": "Fast detection of communication patterns in distributed executions",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 352,
+			"name": "Keeping virtual information resources up and running",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 353,
+			"name": "A performance engineering tool and method for distributing applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 354,
+			"name": "An approach to software architecture analysis for evolution and reusability",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 355,
+			"name": "Configuration maintenance for distributed applications management",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 356,
+			"name": "Agent augmented community-information: the ACORN architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 357,
+			"name": "Architectural unification",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 358,
+			"name": "A high performance get-put interface for ATM communications",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 359,
+			"name": "File clustering using naming conventions for legacy systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 360,
+			"name": "Using shim technology to monitor DCE runtime performance",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 361,
+			"name": "An examination of software engineering work practices",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 362,
+			"name": "An architectural approach to building systems from COTS software components",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 363,
+			"name": "Towards efficient and scalable mediation: the AURORA approach",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 364,
+			"name": "The role of a GUI in the creation of a trainable message understanding system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 365,
+			"name": "Using animated icons to present complex tasks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 366,
+			"name": "Automatic generation of performance models using the distributed management framework (DMF)",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 367,
+			"name": "Repairing software style using graph grammars",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 368,
+			"name": "Acme: an architecture description interchange language",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 369,
+			"name": "DBMiner: a system for data mining in relational databases and data warehouses",
+			"type": 0
+		},
+		{
+			"Timestamp": "1997-01-01",
+			"desc": "Technical Papers",
+			"id": 370,
+			"name": "Augmenting data flow criteria for class testing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 371,
+			"name": "Effective data mining: a data warehouse-backboned architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 372,
+			"name": "Clones occurence in large object oriented software packages",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 373,
+			"name": "Representing architectural evolution",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 374,
+			"name": "Shared memory computing on SP2: JIAJIA approach",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 375,
+			"name": "Code migration through transformations: an experience report",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 376,
+			"name": "The internet vs e-commerce servers: when will server performance matter?",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 377,
+			"name": "On end-to-end performance of multi-service concatenation",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 378,
+			"name": "Executing Java threads in parallel in a distributed-memory environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 379,
+			"name": "Composition and interfaces within software architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 380,
+			"name": "A technique for illustrating dynamic component level interactions within a software architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 381,
+			"name": "Sharpening global static analysis to cope with Java",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 382,
+			"name": "Designing and implementing QoS management of the web",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 383,
+			"name": "An empirical method based on protocol analysis to analyze technical review meetings",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 384,
+			"name": "A class of synchronization systems that permit the use of large atomic blocks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 385,
+			"name": "Efficient software testing protocols",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 386,
+			"name": "Conditional-event usage testing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 387,
+			"name": "Mining multimedia data",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 388,
+			"name": "A piggyback method to collect statistics for query optimization in database management systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 389,
+			"name": "An experimental study of DCE performance in an ATM environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 390,
+			"name": "Assessing the relevance of identifier names in a legacy software system",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 391,
+			"name": "The SDSC storage resource broker",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 392,
+			"name": "Software architecture recovery using Conway\\'s law",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 393,
+			"name": "JAZZ: an efficient compressed format for Java archive files",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 394,
+			"name": "SC(R)<sup>3 </sup>: towards usability of formal methods",
+			"type": 0
+		},
+		{
+			"Timestamp": "1998-01-01",
+			"desc": "Technical Papers",
+			"id": 395,
+			"name": "OQL_SERF: an ODMG implementation of the template-based schema evolution framework",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 396,
+			"name": "A model independent source code repository",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 397,
+			"name": "Storage estimation for multidimensional aggregates in OLAP",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 398,
+			"name": "The specification of distributed objects: liveness and locality",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 399,
+			"name": "Forward and reverse repair of software architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 400,
+			"name": "Soot - a Java bytecode optimization framework",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 401,
+			"name": "Towards array bound check elimination in Java <sup>TM </sup> virtual machine language",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 402,
+			"name": "Multiple-granularity interleaving for piggyback query processing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 403,
+			"name": "Increasing the flexibility of modelling tools via constraint-based specification",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 404,
+			"name": "The fused multiply-add instruction leads to algorithms for extended-precision floating point: applications to java and high-performance computing",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 405,
+			"name": "Software architecture abstraction and aggregation as algebraic manipulations",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 406,
+			"name": "Leveraging IBM visual age for C++ for reverse engineering tasks",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 407,
+			"name": "A static measure of a subset of intra-procedural data flow testing coverage based on node coverage",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 408,
+			"name": "Migration of procedural systems to network-centric platforms",
+			"type": 0
+		},
+		{
+			"Timestamp": "1999-01-01",
+			"desc": "Technical Papers",
+			"id": 409,
+			"name": "Compact Java binaries for embedded systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 410,
+			"name": "Designing multinational online stores: challenges,implementation techniques and experience",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 411,
+			"name": "Automatic detection of immutable fields in Java",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 412,
+			"name": "Supporting maintenance of legacy software with data mining techniques",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 413,
+			"name": "Efficient mapping of software system traces to architectural views",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 414,
+			"name": "Simulating DB2 buffer pool management",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 415,
+			"name": "A framework algorithm for dynamic,centralized dimension-bounded timestamps",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 416,
+			"name": "A multi-perspective software visualization environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 417,
+			"name": "A cognitive and user centric based approach for reverse engineering tool design",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 418,
+			"name": "Web-based specification and integration of legacy services",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 419,
+			"name": "Bisimulation analysis of SDL-expressed protocols: a case study",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 420,
+			"name": "Model checking the composition of hypermedia design components",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 421,
+			"name": "Performance modeling of nested transactions in database systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 422,
+			"name": "Witan web and the software engineering of web-based applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 423,
+			"name": "Task-directed software inspection technique: an experiment and case study",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 424,
+			"name": "An interactive system for recognizing hand drawn UML diagrams",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 425,
+			"name": "A framework for optimizing Java using attributes",
+			"type": 0
+		},
+		{
+			"Timestamp": "2000-01-01",
+			"desc": "Technical Papers",
+			"id": 426,
+			"name": "Queueing model based Qos management prototype for e-commerce systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 427,
+			"name": "Lightweight reasoning about program correctness",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 428,
+			"name": "Intelligent search techniques for large software systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 429,
+			"name": "Node similarity in networked information spaces",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 430,
+			"name": "User-centered design methods in practice: a survey of the state of the art",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 431,
+			"name": "A Pareto model for OLAP view size estimation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 432,
+			"name": "Integrating SHriMP with the IBM websphere studio workbench",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 433,
+			"name": "Extending the message flow debugger for MQSI",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 434,
+			"name": "Utilizing histogram information",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 435,
+			"name": "On staleness and the delivery of web pages",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 436,
+			"name": "An analytical model for buffer hit rate prediction",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 437,
+			"name": "Using UML to reflect non-functional requirements",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 438,
+			"name": "Principles in formal specification of object oriented design and architecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 439,
+			"name": "Terminology management as data management",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 440,
+			"name": "Towards specifying constraints for object-oriented frameworks",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 441,
+			"name": "User experience with alignment of real and virtual objects in a stereoscopic augmented reality interface",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 442,
+			"name": "A case study in the use of defect classification in inspections",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 443,
+			"name": "Email classification with co-training",
+			"type": 0
+		},
+		{
+			"Timestamp": "2001-01-01",
+			"desc": "Technical Papers",
+			"id": 444,
+			"name": "Migrating E-commerce database applications to an enterprise Java environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 445,
+			"name": "Specification-based regression test selection with risk analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 446,
+			"name": "A study of the impact of direct access I/O on relational database management systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 447,
+			"name": "Index selection for compiled database applications in embedded control programs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 448,
+			"name": "Exploiting common subqueries for complex query optimization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 449,
+			"name": "Configuring buffer pools in DB2 UDB",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 450,
+			"name": "Re-ranking search results using network analysis a case study with google: a case study with Google",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 451,
+			"name": "Supporting capacity planning for DB2 UDB",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 452,
+			"name": "A methodology for auto-recognizing DBMS workloads",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 453,
+			"name": "An empirical evaluation of system and regression testing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 454,
+			"name": "TaskView: design and evaluation of a task-based email interface",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 455,
+			"name": "Qualitative observations from software code inspection experiments",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 456,
+			"name": "Wavelet-based relative prefix sum methods for range sum queries in data cubes",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 457,
+			"name": "Subject space: a state-persistent model for publish/subscribe systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 458,
+			"name": "Measurement of technology mediated communication style: the communication preferences inventory (CPI)",
+			"type": 0
+		},
+		{
+			"Timestamp": "2002-01-01",
+			"desc": "Technical Papers",
+			"id": 459,
+			"name": "Event matching in symmetric subscription systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 460,
+			"name": "A service-oriented monitoring registry",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 461,
+			"name": "Developing trust in internet commerce",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 462,
+			"name": "An experiment to investigate interacting versus nominal groups in software inspection",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 463,
+			"name": "Spatialized audioconferencing: what are the benefits?",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 464,
+			"name": "Efficient use of code coverage in large-scale software development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 465,
+			"name": "Multicasting in mobile ad-hoc networks: achieving high packet delivery ratios",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 466,
+			"name": "A principled design for scalable internet visual communications with rich media,interactivity,and structured archives",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 467,
+			"name": "Modeling location-based services with subject spaces",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 468,
+			"name": "Efficient matching for state-persistent publish/subscribe systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 469,
+			"name": "A paradigm shift: alternative interaction techniques for use with mobile &amp; wearable devices",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 470,
+			"name": "Customizing lotus notes to build software engineering tools",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 471,
+			"name": "Migration of legacy web applications to enterprise Java<sup>TM </sup> environments net.dataÂ® to JSP<sup>TM </sup> transformation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 472,
+			"name": "Design and implementation of a portable and adaptable load balancing framework",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 473,
+			"name": "Applying data mining to software maintenance records",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 474,
+			"name": "Robust multilingual parsing using island grammars",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 475,
+			"name": "Optimizing large star-schema queries with snowflakes via heuristic-based query rewriting",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 476,
+			"name": "Techniques for automatically sizing multiple buffer pools in DB2",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 477,
+			"name": "The effect of task domain on search",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 478,
+			"name": "Should potential loop optimizations influence inlining decisions?",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 479,
+			"name": "Workload characterization for an E-commerce web site",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 480,
+			"name": "A multi-dimensional histogram for selectivity estimation and fast approximate query answering",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 481,
+			"name": "Removing false code dependencies to speedup software build processes",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 482,
+			"name": "Can GRID services provide answers to the challenges of national health information sharing?",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 483,
+			"name": "Network-centric migration of embedded control software: a case study",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 484,
+			"name": "Early evaluation of software performance based on the UML performance profile",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 485,
+			"name": "Testing iptables",
+			"type": 0
+		},
+		{
+			"Timestamp": "2003-01-01",
+			"desc": "Technical Papers",
+			"id": 486,
+			"name": "On tabular expressions",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 487,
+			"name": "Effective test metrics for test strategy evolution",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 488,
+			"name": "Practical language-independent detection of near-miss clones",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 489,
+			"name": "Identifying opportunities for automatic remote field cloning",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 490,
+			"name": "Structure choices for two-dimensional histogram construction",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 491,
+			"name": "Sizing DB2 UDB<sup>Â® </sup> servers for business intelligence workloads",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 492,
+			"name": "Building predictors from vertically distributed data",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 493,
+			"name": "Mobile services discovery and selection in the publish/subscribe paradigm",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 494,
+			"name": "Verifying protocols by model checking: a case study of the wireless application protocol and the model checker SPIN",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 495,
+			"name": "Evaluating the performance of user-space and kernel-space web servers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 496,
+			"name": "Consistent query answering under inclusion dependencies",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 497,
+			"name": "Investigations in tree locking for compiled database applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 498,
+			"name": "An introduction to multilevel secure relational database management systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 499,
+			"name": "One XP experience: introducing agile (XP) software development into a culture that is willing but not ready",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 500,
+			"name": "An experimental simulation of multi-site software development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 501,
+			"name": "A quantitative analysis of the performance impact of specialized bytecodes in java",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 502,
+			"name": "Information discovery within organizations using the Athens system",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 503,
+			"name": "A reverse engineering tool for precise class diagrams",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 504,
+			"name": "Selecting the best web service",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 505,
+			"name": "Effect of different network analysis strategies on search engine re-ranking",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 506,
+			"name": "A survey of trace exploration tools and techniques",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 507,
+			"name": "Program comprehension with dynamic recovery of code collaboration patterns and roles",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 508,
+			"name": "Using trace analysis for improving performance in COTS systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 509,
+			"name": "Specifying and locating hierarchical patterns in event data",
+			"type": 0
+		},
+		{
+			"Timestamp": "2004-01-01",
+			"desc": "Technical Papers",
+			"id": 510,
+			"name": "Specifying framework constraints with FCL",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 511,
+			"name": "Eliciting confidentiality requirements in practice",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 512,
+			"name": "diffX: an algorithm to detect changes in multi-version XML documents",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 513,
+			"name": "Detecting unusual email communication",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 514,
+			"name": "Universal access architecture for digital libraries",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 515,
+			"name": "Experience in using business scenarios to assess COTS components in integrated solutions",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 516,
+			"name": "Scalable database replication through dynamic multiversioning",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 517,
+			"name": "SCL: a language for security testing of network applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 518,
+			"name": "An interactive system for negotiation in e-commerce with incremental user knowledge",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 519,
+			"name": "A secured hierarchical trust management framework for public computing utilities",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 520,
+			"name": "On generating cognitive patterns of software comprehension",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 521,
+			"name": "A mechanism for visualizing TCP-socket interactions",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 522,
+			"name": "A variability management process for software product lines",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 523,
+			"name": "Learning basic block scheduling heuristics from optimal data",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 524,
+			"name": "DBmbench: fast and accurate database workload representation on modern microarchitecture",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 525,
+			"name": "Online data migration for autonomic provisioning of databases in dynamic content web servers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 526,
+			"name": "Scheduling functional regression tests for IBM DB2 products",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 527,
+			"name": "Are patches cutting it?: structuring distribution within a JVM using aspects",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 528,
+			"name": "Mixed mode execution with context threading",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 529,
+			"name": "Automated workplace design and reconfiguration for evolving business processes",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 530,
+			"name": "Tracking time-varying parameters in software systems with extended Kalman filters",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 531,
+			"name": "Emotions as a metaphor for altering operational behavior in autonomic computing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 532,
+			"name": "RoadMapAssembler: a new pattern-based J2EE development tool",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 533,
+			"name": "Event-driven response architecture for event-based computing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2005-01-01",
+			"desc": "Technical Papers",
+			"id": 534,
+			"name": "Horizontal decomposition of Prevayler",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 535,
+			"name": "TAUPE: towards understanding program comprehension",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 536,
+			"name": "Static analysis for dynamic coupling measures",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 537,
+			"name": "All code coverage is not created equal: a case study in prioritized code coverage",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 538,
+			"name": "STAC: software tuning panels for autonomic control",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 539,
+			"name": "Workload adaptation in autonomic DBMSs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 540,
+			"name": "Peer-to-peer data integration with distributed bridges",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 541,
+			"name": "Addressing concurrency in object-oriented software development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 542,
+			"name": "Integrating scenarios,i*,and AspectT in the context of multi-agent systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 543,
+			"name": "Integrating dynamic views using model driven development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 544,
+			"name": "Automating function point analysis with model driven development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 545,
+			"name": "Adaptiveness in well-typed Java bytecode verification",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 546,
+			"name": "Towards evidence-supported,question-directed collaborative program comprehension",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 547,
+			"name": "Packet decoding using context sensitive parsing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 548,
+			"name": "On approximate matching of programs for protecting libre software",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 549,
+			"name": "Improving web site search using web server logs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 550,
+			"name": "A design technique for evolving web services",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 551,
+			"name": "Legal research topics within services sciences",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 552,
+			"name": "Software architects in practice: handling requirements",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 553,
+			"name": "Tailoring UML activities to use case modeling for web application development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 554,
+			"name": "Inspecting designs in the context of model-driven development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 555,
+			"name": "A lightweight approach to state based security testing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 556,
+			"name": "Improving a textual deception detection model",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 557,
+			"name": "Combined static and dynamic analysis for inferring program dependencies using a pattern language",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 558,
+			"name": "Hybrid vs. monolithic OS kernels: a benchmark comparison",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 559,
+			"name": "CasSim: a top-level-simulator for grid scheduling and applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 560,
+			"name": "Component-oriented version management for hardware software co-design",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 561,
+			"name": "Online shopping for technology products: designing web portals to address buyer behaviours,attitudes and individual differences",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 562,
+			"name": "Towards autonomic workflow management systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Short papers",
+			"id": 563,
+			"name": "Exploring a new space of features for document classification: figure clustering",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Dublin symposium",
+			"id": 564,
+			"name": "A framework for visualization of large time-varying volume data for high performance computing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Dublin symposium",
+			"id": 565,
+			"name": "Exercising control over the design of evolving software systems using an inverse application of reflexion modeling",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Dublin symposium",
+			"id": 566,
+			"name": "Ensuring behavioural equivalence in test-driven porting",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Dublin symposium",
+			"id": 567,
+			"name": "Accelerating marching cubes with graphics hardware",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 568,
+			"name": "A backtracking LR algorithm for parsing ambiguous context-dependent languages",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Dublin symposium",
+			"id": 569,
+			"name": "Introducing performance engineering by means of tools and practical exercises",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Dublin symposium",
+			"id": 570,
+			"name": "A model and architecture for situation determination",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 571,
+			"name": "A framework for reducing instruction scheduling overhead in dynamic compilers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 572,
+			"name": "Utilizing field usage patterns for Java heap space optimization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 573,
+			"name": "Requirements-driven design of autonomic application software",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 574,
+			"name": "Functionality configuration for eHome systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2006-01-01",
+			"desc": "Technical Papers",
+			"id": 575,
+			"name": "Trust by design: information requirements for appropriate trust in automation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 576,
+			"name": "Improving predictive models of cognitive complexity using an evolutionary computational approach: a case study",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 577,
+			"name": "Eucalyptus: a web service-enabled e-infrastructure",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 578,
+			"name": "Automated conversion of table-based websites to structured stylesheets using table recognition and clone detection",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 579,
+			"name": "A real-time adaptive control of autonomic computing environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 580,
+			"name": "Policy-driven autonomic management of multi-component systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 581,
+			"name": "A comparative study of pairwise regression techniques for problem determination",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 582,
+			"name": "Client certificate and IP address based multi-factor authentication for J2EE web applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 583,
+			"name": "An audit trail service to enhance privacy compliance in federated identity management",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 584,
+			"name": "Window query processing for joining data streams with relations",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 585,
+			"name": "The scalability of AspectJ",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 586,
+			"name": "Threats on building models from CVS and Bugzilla repositories: the Mozilla case study",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 587,
+			"name": "Comparing episodic and semantic interfaces for task boundary identification",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 588,
+			"name": "Discovering the shared understanding dynamics of large software teams",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 589,
+			"name": "An IDE for software development using tabular expressions",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 590,
+			"name": "A test framework for integration testing of object-oriented programs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 591,
+			"name": "Support for OpenMP tasks in Nanos v4",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 592,
+			"name": "MultiLoop: efficient software pipelining for modern hardware",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 593,
+			"name": "SLA-driven business process management in SOA",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 594,
+			"name": "An approach to managing the execution of large SQL queries",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 595,
+			"name": "Removing manually generated boilerplate from electronic texts: experiments with project Gutenberg e-books",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 596,
+			"name": "A search-based approach for dynamically re-packaging downloadable applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 597,
+			"name": "Identifying fault-prone files using static analysis alerts through singular value decomposition",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 598,
+			"name": "Identifying active subgroups in online communities",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 599,
+			"name": "Using web 2.0 to locate expertise",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Short papers",
+			"id": 600,
+			"name": "A trust based approach for protecting user data in social networks",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Dublin symposium",
+			"id": 601,
+			"name": "A service-centric approach to access control and monitoring based on distributed trust",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Dublin symposium",
+			"id": 602,
+			"name": "Using trace sampling techniques to identify dynamic clusters of classes",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Dublin symposium",
+			"id": 603,
+			"name": "Visualisation techniques to support derivation tasks in software product line development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Dublin symposium",
+			"id": 604,
+			"name": "An interaction visualisation tool for a learning management system",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Dublin symposium",
+			"id": 605,
+			"name": "Sequence-based specification of feedback control systems in Simulink",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Dublin symposium",
+			"id": 606,
+			"name": "Information \\'\\'bridging\\\" in a global organization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 607,
+			"name": "Runtime monitoring of web service conversations",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 608,
+			"name": "Pattern rewriting for efficient search in partial-order event data",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 609,
+			"name": "MAROMinDrift affinity routing for resource management in heterogeneous computing systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 610,
+			"name": "Out of sight but not out of mind?: Informal networks,communication and media use in global software teams",
+			"type": 0
+		},
+		{
+			"Timestamp": "2007-01-01",
+			"desc": "Technical Papers",
+			"id": 611,
+			"name": "Using paper mockups for evaluating soft keyboard layouts",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 612,
+			"name": "DBMS workload control using throttling: experimental insights",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 613,
+			"name": "Automating SLA modeling",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 614,
+			"name": "Capacity planning for service-oriented architectures",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 615,
+			"name": "Reliability estimation for large distributed software systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 616,
+			"name": "A methodological leg to stand on: lessons learned using grounded theory to study software development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 617,
+			"name": "A taxonomy of software types to facilitate search and evidence-based software engineering",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 618,
+			"name": "Building highly-interactive,data-intensive,REST applications: the Invenio experience",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 619,
+			"name": "OpenMP tasks in IBM XL compilers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 620,
+			"name": "High performance XML parsing using parallel bit stream technology",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 621,
+			"name": "Information-theoretic modeling for tracking the health of complex software systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 622,
+			"name": "Using economic models to allocate resources in database management systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 623,
+			"name": "Efficient XPath query processing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 624,
+			"name": "NetPal: a dynamic network administration knowledge base",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 625,
+			"name": "SIFT: a scalable iterative-unfolding technique for filtering execution traces",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 626,
+			"name": "An architecture for providing context in WS-BPEL processes",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 627,
+			"name": "Is it a bug or an enhancement?: a text-based approach to classify change requests",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 628,
+			"name": "Autonomic tuning expert: a framework for best-practice oriented autonomic database tuning",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 629,
+			"name": "Synchronized tag clouds for exploring semi-structured clinical trial data",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 630,
+			"name": "Personalized recommendation of related content based on automatic metadata extraction",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 631,
+			"name": "Online stroke modeling for handwriting recognition",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 632,
+			"name": "Flexible verification of user-defined semantic constraints in modelling tools",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 633,
+			"name": "Towards a UML virtual machine: implementing an interpreter for UML 2 actions and activities",
+			"type": 0
+		},
+		{
+			"Timestamp": "2008-01-01",
+			"desc": "Technical Papers",
+			"id": 634,
+			"name": "An empirical study of the design and implementation of object equality in Java",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 635,
+			"name": "Resource provisioning for cloud computing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 636,
+			"name": "DRACA: decision support for root cause analysis and change impact analysis for CMDBs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 637,
+			"name": "An empirical evaluation of a languagebased security testing technique",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 638,
+			"name": "An empirical analysis of the evolution of uservisible features in an integrated development environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 639,
+			"name": "Diagnosis of recurrent faults using log files",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 640,
+			"name": "Identifying components in objectoriented programs using dynamic analysis and clustering",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 641,
+			"name": "A lightweight and flexible process for designing intuitive error handling and effective error messages",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 642,
+			"name": "The role of agile practices in disaster management and recovery: a case study",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 643,
+			"name": "WikiDev 2.0: discovering clusters of related team artifacts",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 644,
+			"name": "Exploring the design space of proactive tool support for copyandpaste programming",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 645,
+			"name": "An autonomic framework for usercentric communication services",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 646,
+			"name": "Incremental model synchronization in model driven development environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 647,
+			"name": "Offloading compute intensive tasks for insurance products using a justintime compiler on a hybrid system",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 648,
+			"name": "Parallel catastrophe modelling on a cell processor",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 649,
+			"name": "Cache line reservation: exploring a scheme for cache-friendly object allocation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 650,
+			"name": "Virtualizing high-performance graphics cards for driver design and development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 651,
+			"name": "Enumerating mobile enterprise complexity 21 complexity factors to enhance the design process",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 652,
+			"name": "OpenMP tasking analysis for programmers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 653,
+			"name": "Efficient decision tree construction for mining timevarying data streams",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 654,
+			"name": "A spreadsheetlike user interface for combinatorial multiobjective optimization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 655,
+			"name": "Modeling service orchestrations with a ruleenhanced business process language",
+			"type": 0
+		},
+		{
+			"Timestamp": "2009-01-01",
+			"desc": "Technical Papers",
+			"id": 656,
+			"name": "SLAdriven business process management in SOA",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 657,
+			"name": "The evolution of the CASCON community: a social network analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 658,
+			"name": "Accessing data through ontologies with ONDA",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 659,
+			"name": "Improving program navigation with an active help system",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 660,
+			"name": "Requirements attributes to predict requirements related defects",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 661,
+			"name": "F007: finding rediscovered faults from the field using function-level failed traces of software in the field",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 662,
+			"name": "Sequence diagram to colored Petri nets transformation testing: an immune system metaphor",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 663,
+			"name": "XPath query processing improvements",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 664,
+			"name": "COVER model pivot view indexing for efficient XML data management",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 665,
+			"name": "LLS: level-based labeling scheme for XML databases",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 666,
+			"name": "Visual guidance in the exploration of large databases",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 667,
+			"name": "Aspect weaver: a model transformation approach for UML models",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 668,
+			"name": "Left or right?: spatial arrangement for information presentation on large displays",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 669,
+			"name": "Reducing data access latency in SDSM systems using runtime optimizations",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 670,
+			"name": "CCMarketplace: a marketplace model for a hybrid cloud",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 671,
+			"name": "Business process adaptation on a tracked simulation model",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 672,
+			"name": "Lightweight problem determination in DBMSs using data stream analysis techniques",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 673,
+			"name": "Integrating MapReduce and RDBMSs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 674,
+			"name": "Efficient processing of monotonic linear progressive queries via dynamic materialized views",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 675,
+			"name": "Client-side service composition using generic service representative",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 676,
+			"name": "Towards workflow verification",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 677,
+			"name": "Approach for generating performance models from UML models of SOA systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 678,
+			"name": "Automatic video genre categorization and event detection techniques on large-scale sports data",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 679,
+			"name": "Diagnosing software using statecharts",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 680,
+			"name": "Symptom-based problem determination using log data abstraction",
+			"type": 0
+		},
+		{
+			"Timestamp": "2010-01-01",
+			"desc": "Technical Papers",
+			"id": 681,
+			"name": "The Personal Web: smart internet for me",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 682,
+			"name": "Spy vs. Spy: counter-intelligence methods for backtracking malicious intrusions",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 683,
+			"name": "Towards a requirements-driven framework for detecting malicious behavior against software systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 684,
+			"name": "An adaptive scheduling algorithm for dynamic heterogeneous Hadoop systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 685,
+			"name": "Privacy leakage in multi-relational learning via unwanted classification models",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 686,
+			"name": "A materialized-view based technique to optimize progressive queries via dependency analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 687,
+			"name": "ChuQL: processing XML with XQuery using Hadoop",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 688,
+			"name": "Programmer-assisted automatic parallelization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 689,
+			"name": "Parallel data cubes on multi-core processors with multiple disks",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 690,
+			"name": "Task scheduling for GPU accelerated OLAP systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 691,
+			"name": "Enabling automated integration testing of cloud application services in virtualized environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 692,
+			"name": "Enhancing application robustness in cloud data centers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 693,
+			"name": "YaKit: a locality based messaging system using iCon overlay",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 694,
+			"name": "Assisting failure diagnosis through filesystem instrumentation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 695,
+			"name": "Detecting model refactoring opportunities using heuristic search",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 696,
+			"name": "Deriving high-level abstractions from legacy software using example-driven clustering",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 697,
+			"name": "A dynamic context management infrastructure for supporting user-driven web integration in the personal web",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 698,
+			"name": "Object-relational event middleware for web applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 699,
+			"name": "Towards a framework for migrating web applications to web services",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 700,
+			"name": "Complexity analysis: a quantitative approach to usability engineering",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 701,
+			"name": "Towards the profiling of scientific software for accuracy",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 702,
+			"name": "A QoS-aware decision model for web service development: server-site data services or client-site task services",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 703,
+			"name": "Bringing semantics to feature models with SAFMDL",
+			"type": 0
+		},
+		{
+			"Timestamp": "2011-01-01",
+			"desc": "Technical Papers",
+			"id": 704,
+			"name": "Email classification with co-training",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 705,
+			"name": "Sort-aware query scheduling in database management systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 706,
+			"name": "Dynamic global resource allocation in shared data centers and clouds",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 707,
+			"name": "Partitioning applications for hybrid and federated clouds",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 708,
+			"name": "DMVI: a dynamic materialized view index for efficiently discovering usable views for progressive queries",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 709,
+			"name": "Collaborative decision making: an implementation of the Delphi approach in a social platform",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 710,
+			"name": "Model oriented programming: an empirical study of comprehension",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 711,
+			"name": "Grammar-based test generation for software product line feature models",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 712,
+			"name": "Conceptualizing and specifying key performance indicators in business strategy models",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 713,
+			"name": "SmarterDeals: a context-aware deal recommendation system based on the smartercontext engine",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 714,
+			"name": "Surprise: user-controlled granular privacy and security for personal data in SmarterContext",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 715,
+			"name": "Crawling rich internet applications: the state of the art",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 716,
+			"name": "Web service competition: a new approach to service selection",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 717,
+			"name": "WSDarwin: automatic web service client adaptation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 718,
+			"name": "Life and death of software packages: an evolutionary study of Debian",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 719,
+			"name": "Connectivity of co-changed method groups: a case study on open source systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2012-01-01",
+			"desc": "Technical Papers",
+			"id": 720,
+			"name": "Automatic communication coalescing for irregular computations in UPC language",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 721,
+			"name": "A paradigm shift for mobile interaction: a decade later",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 722,
+			"name": "Evidence-based trust metrics in web services",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 723,
+			"name": "Minimal broker overlay design for content-based publish/subscribe systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 724,
+			"name": "A brief history of web crawlers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 725,
+			"name": "Improving spreadsheet test practices",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 726,
+			"name": "Using clone detection to find malware in acrobat files",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 727,
+			"name": "Proof of retrieval and ownership protocols for enterprise-level data deduplication",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 728,
+			"name": "A model-driven approach for promoting cloud PaaS portability",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 729,
+			"name": "Regression-based utilization prediction algorithms: an empirical investigation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 730,
+			"name": "MapReduce \\\"garbage\\\" collection",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 731,
+			"name": "A multidimensional empirical study on refactoring activity",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 732,
+			"name": "A source-to-source transformation tool for error fixing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 733,
+			"name": "An empirical study of the factors affecting co-change frequency of cloned code",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 734,
+			"name": "Monitoring and diagnosing indicators for business analytics",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 735,
+			"name": "Towards semantic data analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 736,
+			"name": "Guiding multidimensional analysis using decision trees",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 737,
+			"name": "Network latency impact on performance of software deployed across multiple clouds",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 738,
+			"name": "Location-aware business process management for real-time monitoring of a cardiac care process",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 739,
+			"name": "An infrastructure for secure sharing of medical images between PACS and EHR systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 740,
+			"name": "Dynamic context extraction in personal communication applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 741,
+			"name": "Consultant-as-a-service: an interactive and context-driven approach to mobile decision support services",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 742,
+			"name": "Revisiting prior empirical findings for mobile apps: an empirical case study on the 15 most popular open-source Android apps",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 743,
+			"name": "Industrial scientific software: a set of interviews on software development",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 744,
+			"name": "Light-weight software product lines for small and medium-sized enterprises (SMEs)",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Technical Papers",
+			"id": 745,
+			"name": "Incremental software design modelling",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Emerging Technologies",
+			"id": 746,
+			"name": "Cloud-based security services for the smart grid",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Emerging Technologies",
+			"id": 747,
+			"name": "Analytics-as-a-service: confluence of big data, cloud computing and software-as-a-service",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Emerging Technologies",
+			"id": 748,
+			"name": "NewsCast: an adaptive video stream production and delivery system",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Emerging Technologies",
+			"id": 749,
+			"name": "Architecting the enterprise to leverage a confluence of emerging technologies",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "Emerging Technologies",
+			"id": 750,
+			"name": "Recommender narrative visualization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2013-01-01",
+			"desc": "FoSP",
+			"id": 751,
+			"name": "From representational state transfer (REST) to representational action state transfer (REAST): enabling smarter web interactions for web tasking",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 752,
+			"name": "Practical language-independent detection of near-miss clones",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 753,
+			"name": "Recommending software experts using code similarity and social heuristics",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 754,
+			"name": "Involvement, contribution and influence in GitHub and stack overflow",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 755,
+			"name": "Monitoring sentiment in open source mailing lists: exploratory study on the apache ecosystem",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 756,
+			"name": "The (5+1) architectural view model for cloud applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 757,
+			"name": "Chorus: an interactive approach to incremental modeling and validation in clouds",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 758,
+			"name": "Analyzing auto-scaling issues in cloud environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 759,
+			"name": "Reverse engineering of object-oriented code into Umple using an incremental and rule-based approach",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 760,
+			"name": "Modeling and analysis of video games based on workflow nets and state graphs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 761,
+			"name": "Towards a framework for ontology learning from interactions in natural language and reasoning",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 762,
+			"name": "Exploiting social context in personalized web-tasking applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 763,
+			"name": "Tempesta: a framework for HTTP DDoS attacks mitigation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 764,
+			"name": "Simulation and performance evaluation of the hadoop capacity scheduler",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 765,
+			"name": "Mining common morphological fragments from process event logs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 766,
+			"name": "A systematic approach for dynamic targeted monitoring of KPIs",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 767,
+			"name": "Relational OLAP query optimization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 768,
+			"name": "The power of system call traces: predicting the software energy consumption impact of changes",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 769,
+			"name": "On improving green mining for energy-aware software analysis",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 770,
+			"name": "Towards understanding digital information discovery and curation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Technical Papers",
+			"id": 771,
+			"name": "Supporting the evaluation of complex search tasks with the searchtrails tool",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 772,
+			"name": "Smart big data analytics as a service framework: a proposal",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 773,
+			"name": "Derive: finding semantic concepts with property-values from natural language text",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 774,
+			"name": "Distributed policy based management for wireless sensor networks to support the internet of things environment",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 775,
+			"name": "Static application security testing for crypto-currency ecosystems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 776,
+			"name": "Smart autoflight control systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 777,
+			"name": "Towards a uniform data model in multi-database environments",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 778,
+			"name": "Materialized views in Cassandra",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 779,
+			"name": "Optimizing key-value stores for hybrid storage architectures",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 780,
+			"name": "Toward a solution for the cloud account delegation problem",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 781,
+			"name": "ARDev: a methodology based on scrum principles to support research management on software technologies",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 782,
+			"name": "Category-based user interaction with online user-generated videos: workload characterization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 783,
+			"name": "Exploiting emergent technologies to create systems that meet shifting expectations",
+			"type": 0
+		},
+		{
+			"Timestamp": "2014-01-01",
+			"desc": "Emerging Technologies",
+			"id": 784,
+			"name": "Mitigating dynamic attacks using multi-agent game-theoretic techniques",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 785,
+			"name": "Tracking time-varying parameters in software systems with extended Kalman filters",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 786,
+			"name": "A study of three MapReduce frameworks",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 787,
+			"name": "Adoop: MapReduce for ad-hoc cloud computing",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 788,
+			"name": "Optimizing application downtime through intelligent VM placement and migration in cloud data centers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 789,
+			"name": "Automated classification of congestive heart failure severity using time domain, frequency domain and non-linear heart rate variability measures",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 790,
+			"name": "Cardinality estimation using neural networks",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 791,
+			"name": "Benchmarking the IBM Power8 processor",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 792,
+			"name": "MetaFork: a compilation framework for concurrency models targeting hardware accelerators and its application to the generation of parametric CUDA kernels",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 793,
+			"name": "Stratified sampling for even workload partitioning applied to single source shortest path algorithm",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 794,
+			"name": "Data-dependence profiling to enable safe thread level speculation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 795,
+			"name": "MOTL: a textual language for trace specification of state machines and associations",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 796,
+			"name": "Multitenancy benefits in application servers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 797,
+			"name": "Context-aware mobile apps using iBeacons: towards smarter interactions",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 798,
+			"name": "The effect of a collaborative game on group work",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 799,
+			"name": "An empirical study on change recommendation",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 800,
+			"name": "Context extraction in recommendation systems in software engineering: a preliminary survey",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 801,
+			"name": "Do developers respond to code stability warnings",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 802,
+			"name": "How should we read and analyze bug reports: an interactive visualization using extractive summaries and topic evolution",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 803,
+			"name": "Recommending relevant sections from a webpage about programming errors and exceptions",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 804,
+			"name": "A monitor-based synchronization approach for Java packed objects",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 805,
+			"name": "CrashAutomata: an approach for the detection of duplicate crash reports based on generalizable automata",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Technical Papers",
+			"id": 806,
+			"name": "Towards convenient management of software clone codes in practice: an integrated approach",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 807,
+			"name": "Context-aware real-time video analytics",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 808,
+			"name": "To default or not to default: exposing limitations to HBase cluster deployers",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 809,
+			"name": "Harnessing the power in your pocket",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 810,
+			"name": "Towards a context-aware mobile app management framework",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 811,
+			"name": "Towards improved performance and compliance in healthcare using wearables and bluetooth technologies",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 812,
+			"name": "A tangible user interface for interactive data visualization",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 813,
+			"name": "Pilot study of collective decision-making in the code review process",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 814,
+			"name": "Social computing and intelligence: exploring opportunities for the public and the enterprise",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 815,
+			"name": "Emerging technologies for enterprise Linux on IBM z systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 816,
+			"name": "Evolutionary analysis of access control models: a formal concept analysis method",
+			"type": 0
+		},
+		{
+			"Timestamp": "2015-01-01",
+			"desc": "Emerging Technologies",
+			"id": 817,
+			"name": "GitHub\\'s big data adaptor: an eclipse plugin",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 818,
+			"name": "Requirements-driven design of autonomic application software",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 819,
+			"name": "A Bayesian game decision-making model for uncertain adversary types",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 820,
+			"name": "ArchiGen: a conceptual form design tool using an evolutionary computing approach",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 821,
+			"name": "A concurrent multiway tree using the lazy locking mechanism",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 822,
+			"name": "D-ForenRIA: a distributed tool to reconstruct user sessions for rich internet applications",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 823,
+			"name": "An effective method for detecting duplicate crash reports using crash traces and hidden Markov models",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 824,
+			"name": "An exploratory study on change suggestions for methods using clone detection",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 825,
+			"name": "Automatic prediction of the severity of bugs using stack traces",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 826,
+			"name": "Base64Geo: an efficient data structure and transmission format for large, dense, scalar GIS datasets",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 827,
+			"name": "Combining static analysis and targeted symbolic execution for scalable bug-finding in application binaries",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 828,
+			"name": "Consolidation of underutilized virtual machines to reduce total power usage",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 829,
+			"name": "Enabling devops for containerized data-intensive applications: an exploratory study",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 830,
+			"name": "Evaluation of Python-based tools for distributed computing on the Raspberry Pi",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 831,
+			"name": "From relations to multi-dimensional maps: a SQL-to-HBase transformation methodology",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 832,
+			"name": "Investigating resource interference and scaling on multitenant PaaS clouds",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 833,
+			"name": "Local versus global models for effort-aware defect prediction",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 834,
+			"name": "Manifold: an SMT-based declarative language for electronic and microfluidic design synthesis",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 835,
+			"name": "MEWSE: multi-engine workflow submission and execution on apache YARN",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 836,
+			"name": "MothPad: monitoring pub/sub activity in cyber-physical systems",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 837,
+			"name": "Performance analysis roundtrip: automatic generation of performance models and results feedback using cross-model trace links",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 838,
+			"name": "Preliminary investigation on user interaction with IBM watson analytics",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 839,
+			"name": "Proactive auto-scaling of resources for stream processing engines in the cloud",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 840,
+			"name": "Searching stack overflow for API-usage-related bug fixes using snippet-based queries",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 841,
+			"name": "Software energy optimization in the cloud",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 842,
+			"name": "String deduplication during garbage collection in virtual machines",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 843,
+			"name": "TGDB: towards a benchmark for graph databases",
+			"type": 0
+		},
+		{
+			"Timestamp": "2016-01-01",
+			"desc": "Technical Papers",
+			"id": 844,
+			"name": "Word representation using a deep neural network",
+			"type": 0
+		}
+	],
+	"collabs": [
+		{
+			"person": 0,
+			"product": 14,
+			"value": 1
+		},
+		{
+			"person": 1,
+			"product": 6,
+			"value": 1
+		},
+		{
+			"person": 2,
+			"product": 6,
+			"value": 1
+		},
+		{
+			"person": 3,
+			"product": 6,
+			"value": 1
+		},
+		{
+			"person": 4,
+			"product": 18,
+			"value": 1
+		},
+		{
+			"person": 5,
+			"product": 18,
+			"value": 1
+		},
+		{
+			"person": 6,
+			"product": 18,
+			"value": 1
+		},
+		{
+			"person": 7,
+			"product": 18,
+			"value": 1
+		}
+	],
+	"legend": [
+		{
+			"id": 0,
+			"name": "Paper",
+			"url": "images/text.png"
+		}
+	],
+	"links": [],
+	"membership": [
+    {
+			"person": 0,
+			"start": ["1992-01-01"],
+      "end": ["1993-01-01"]
+		},
+		{
+			"person": 1,
+      "start": ["1992-01-01"],
+      "end": ["1993-01-01"]
+		},
+		{
+			"person": 2,
+      "start": ["1992-01-01"],
+      "end": ["1993-01-01"]
+		},
+		{
+			"person": 3,
+      "start": ["1992-01-01"],
+      "end": ["1993-01-01"]
+		},
+		{
+			"person": 4,
+      "start": ["1992-01-01"],
+      "end": ["1993-01-01"]
+		},
+		{
+			"person": 5,
+      "start": ["1992-01-01"],
+      "end": ["1993-01-01"]
+		},
+		{
+			"person": 6,
+      "start": ["1992-01-01"],
+      "end": ["1993-01-01"]
+		},
+		{
+			"person": 7,
+      "start": ["1992-01-01"],
+      "end": ["1993-01-01"]
+		}
+  ]
+}
