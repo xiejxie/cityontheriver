@@ -1,4 +1,4 @@
-d3.nav = function () {
+﻿d3.nav = function () {
 
   // Original variables put into the system
   var nav = {},

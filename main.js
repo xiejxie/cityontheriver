@@ -140,32 +140,9 @@ $.ajax({
       console.log("FINAL:", (new Date()).getTime() - start);
       },
     error: function(request, status, error) {
+      console.log("check")
       console.log(request)
       console.log(status)
       console.log("Error: " + error)
     }
 });
-
-
-var data_search_string = "data=";
-var data_file = (window.location.href.indexOf(data_search_string) != -1)
-	? window.location.href.substring(window.location.href.indexOf(data_search_string)
-		+ data_search_string.length)
-	:
-  //"1energy_small.json";
-   //"2energy.json";
-    //"data/real_grand_data.json";
-    //  "1energy.json";
-     //  "prepossing/4energy.json";
-      // "4energy.json";
-    "test.json";
-    //"tutorial_data.json";
-    // "temp04_small.json";
-    //  "4energy3.json";
-  // "CM_test.json";
-   // "temp.json";
-var data_file = "session_data2.json"
-
-
-d3.select("#new_tab")
-  .attr("href",window.location.href);
