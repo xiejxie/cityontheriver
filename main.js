@@ -70,11 +70,10 @@ var sankey = d3.sankey()
 //////////////////////////////////////////////////////////////////////////////////////////////
 var sim = prompt("Please enter similarity percentage");
 var queryString = prompt("Please enter a query string")
-console.log("http://cityontheriver.pythonanywhere.com/?simPercentage="+sim+"&queryString="+queryString)
 $.ajax({
     type: "GET",
     crossDomain: true,
-    url: "http://cityontheriver.pythonanywhere.com/?simPercentage="+sim+"&queryString="+queryString.replace(" ","%20"),
+    url: "https://cityontheriver.pythonanywhere.com/?simPercentage="+sim+"&queryString="+queryString.replace(" ","%20"),
     async: false,
     success: function(data) {
       let energy = JSON.parse(data);
