@@ -70,17 +70,74 @@ var sankey = d3.sankey()
 //////////////////////////////////////////////////////////////////////////////////////////////
 var sim = prompt("Please enter similarity percentage");
 var queryString = prompt("Please enter a query string")
-
+console.log("http://cityontheriver.pythonanywhere.com/?simPercentage="+sim+"&queryString="+queryString)
 $.ajax({
-    type: "POST",
+    type: "GET",
     crossDomain: true,
-    url: "http://localhost:8080/runApp",
-    contentType: "application/json",
+    url: "http://cityontheriver.pythonanywhere.com/?simPercentage="+sim+"&queryString="+queryString.replace(" ","%20"),
     async: false,
-    dataType: "json",
-    data: JSON.stringify({'sim': sim, "queryString": queryString}),
     success: function(data) {
-        console.log(JSON.stringify(data))
+      let energy = JSON.parse(data);
+      console.log(energy.nodes)
+      var start = (new Date()).getTime();
+
+        // ----------------- //
+        // SANKEY LOADING... //
+        // ----------------- //
+        // Seting in data that has been read-in
+        sankey.nodes(energy.nodes)
+            .links(energy.links)
+            .people(energy.people)
+            .collabs(energy.collabs)
+            .legend(energy.legend)
+            .membership(energy.membership)
+            .do_smudge(true);
+
+        // 1. Generate original layout and read data
+        sankey.layout(window.innerHeight - margin.top - margin.bottom);
+
+        var defs = svg.append("defs");
+
+        // ------------- //
+        // HL LOADING... //
+        // ------------- //
+        var hl = d3.hl()
+            .set_file_name('hi')
+            .id_yaxis_svg(id_yaxis_svg)
+            .id_chart_svg(id_chart_svg)
+            .defs(defs)
+            .margin(margin)
+            .sankey(sankey)
+            .init_grid()
+            .init_values(); // 2. Setup from hl
+
+        // -------------- //
+        // NAV LOADING... //
+        // -------------- //
+        var nav = d3.nav()
+           .set_file_name('hi')
+           .nav_width(nav_width)
+           .defs(defs)
+           .hl(hl);
+
+        // Give access of nav functions to HL :/
+        hl.hl_catcher(nav.hl_catcher)
+          .nav_prod_resize(nav.nav_prod_resize);
+
+        // 3. Finish setup with hl
+        hl.setup_zooming();
+        hl.setup_canvas();
+        hl.initualize();
+
+        // 4. Set-up navigation
+        nav.setup();
+        nav.nav_prod_resize(hl.width_0());
+        window.scrollTo(0, window.scrollY);
+
+        hl.printout("HL", "START", true, true);
+        nav.printout("NAV", "START", true, true);
+
+      console.log("FINAL:", (new Date()).getTime() - start);
       },
     error: function(request, status, error) {
       console.log(request)
@@ -89,7 +146,6 @@ $.ajax({
     }
 });
 
-console.log(sim)
 
 var data_search_string = "data=";
 var data_file = (window.location.href.indexOf(data_search_string) != -1)
@@ -108,75 +164,8 @@ var data_file = (window.location.href.indexOf(data_search_string) != -1)
     //  "4energy3.json";
   // "CM_test.json";
    // "temp.json";
+var data_file = "session_data2.json"
 
 
 d3.select("#new_tab")
   .attr("href",window.location.href);
-
-//window.dump(new Date().getTime() + "\tThis is a dump message\n");
-//console.log(new Date().getTime() + "\tThis is a dump message\n");
-
-
-d3.json(data_file, function(energy) {
-
-  var start = (new Date()).getTime();
-
-    // ----------------- //
-    // SANKEY LOADING... //
-    // ----------------- //
-    // Seting in data that has been read-in
-    sankey.nodes(energy.nodes)
-        .links(energy.links)
-        .people(energy.people)
-        .collabs(energy.collabs)
-        .legend(energy.legend)
-        .membership(energy.membership)
-        .do_smudge(true);
-
-    // 1. Generate original layout and read data
-    sankey.layout(window.innerHeight - margin.top - margin.bottom);
-
-    var defs = svg.append("defs");
-
-    // ------------- //
-    // HL LOADING... //
-    // ------------- //
-    var hl = d3.hl()
-        .set_file_name(data_file)
-        .id_yaxis_svg(id_yaxis_svg)
-        .id_chart_svg(id_chart_svg)
-        .defs(defs)
-        .margin(margin)
-        .sankey(sankey)
-        .init_grid()
-        .init_values(); // 2. Setup from hl
-
-    // -------------- //
-    // NAV LOADING... //
-    // -------------- //
-    var nav = d3.nav()
-       .set_file_name(data_file)
-       .nav_width(nav_width)
-       .defs(defs)
-       .hl(hl);
-
-    // Give access of nav functions to HL :/
-    hl.hl_catcher(nav.hl_catcher)
-      .nav_prod_resize(nav.nav_prod_resize);
-
-    // 3. Finish setup with hl
-    hl.setup_zooming();
-    hl.setup_canvas();
-    hl.initualize();
-
-    // 4. Set-up navigation
-    nav.setup();
-    nav.nav_prod_resize(hl.width_0());
-    window.scrollTo(0, window.scrollY);
-
-    hl.printout("HL", "START", true, true);
-    nav.printout("NAV", "START", true, true);
-
-  console.log("FINAL:", (new Date()).getTime() - start);
-
-});
