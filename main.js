@@ -68,8 +68,8 @@ var sankey = d3.sankey()
 //                                |___/                              |__/                   //
 //                                                                                          //
 //////////////////////////////////////////////////////////////////////////////////////////////
-var sim = prompt("Please enter similarity percentage");
-var queryString = prompt("Please enter a query string")
+var sim = prompt("Please enter a decimal between 0 and 1 representing the similarity percentage.");
+var queryString = prompt("Please enter a query string.")
 $.ajax({
     type: "GET",
     crossDomain: true,
